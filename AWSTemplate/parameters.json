@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "value": "SPC-DEVOPS2"
+            "value": "SPC-Devops-4"
         },
         "hostingPlanName": {
-            "value": "SPC-DEVOPS2-plan"
+            "value": "SPC-Devops-4-plan"
         },
         "appInsightsLocation": {
             "value": "South Central US"
         },
         "sku": {
-            "value": "S1 Standard"
+            "value": "F1 Free"
         }
     }
 }
